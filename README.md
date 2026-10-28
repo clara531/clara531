@@ -1,4 +1,5 @@
-## Hi there 👋
+# hello my name is clara 👋
+i´m student of phisics 
 
 <!--
 **clara531/clara531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
