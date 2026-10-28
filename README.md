@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="instagram_badge_header">
-    <img id="" alt="Instagram Camera" src="http://a0.twimg.com/profile_images/1106630388/22_reasonably_small.png" width="36px" height="36px" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" id="" alt="Instagram Camera" src="http://a0.twimg.com/profile_images/1106630388/22_reasonably_small.png" />
     <h2>Instagram</h2>
 </div>
