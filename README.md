@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="PyPI Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+<div id="instagram_badge_header">
+    <img id="" alt="Instagram Camera" src="http://a0.twimg.com/profile_images/1106630388/22_reasonably_small.png" width="36px" height="36px" />
+    <h2>Instagram</h2>
+</div>
